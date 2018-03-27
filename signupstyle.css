@@ -1,0 +1,39 @@
+body{
+background: #323232;
+}
+.wrap{
+	width: 350px;
+	margin:auto;
+	background: #00adee;
+	margin-top: 50px;
+	padding: 5px;
+}
+form{
+	padding: 10px;
+	font-family: arial;
+	border: 1px dotted white;
+	margin:10px;
+}
+h2{
+	text-align: center;
+	background: white;
+	color: black;
+	padding: 10px;
+	border-radius: 10px;
+}
+input{
+	padding:10px;
+	margin:5px;
+	border-radius: 5px;
+	border:none;
+}
+input[type=submit]{
+	width:95%
+	background:black;
+	cursor: pointer;
+	font-size: 18px
+	color:white;
+}
+input[type=text], input[type=email], input[type=number]{
+	width: 90%
+}

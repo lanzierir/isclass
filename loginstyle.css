@@ -1,0 +1,26 @@
+<style type="text/css">
+    div.container {
+      border: 2px solid #840808;
+      padding: 6px;
+      width: 300px;
+      margin:20px auto;
+      text-align:center;
+      color: white;
+    }
+    input[type=text], input[type=password] {
+      padding: 6px 15px;
+      margin: 8px 0;
+      border: 1px solid #ccc;
+    }
+    button {
+      background-color: black;
+      color: white;
+      padding: 6px 15px;
+      margin: 8px 0;
+      width: 20%;
+      border: 2px solid #blue;
+    }
+    body { 
+      background-color: #white;
+    }
+  </style>
